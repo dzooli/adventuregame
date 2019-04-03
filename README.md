@@ -10,6 +10,7 @@ TBD
   - Dia
   - Inform 7 <http://inform7.com/>
   - Some mindmapping tool : Vym, ?
+  - SketchBoard.io <https://sketchboard.io/about>
 - Management (Source and Project)
     - Trello
     - GitHub
