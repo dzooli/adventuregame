@@ -20,6 +20,7 @@ TBD
     - Gimp
     - Blender
     - Inkscape
+    - Drawchemy (for tablets)
 - Sound and Music
   - Hydrogen
   - Audacious
@@ -35,6 +36,7 @@ TBD
     - Sphinx
 - Collaboration
   - Riot.im
+  - Trello
 - Game engine
   - Godot
 
