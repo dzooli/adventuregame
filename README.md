@@ -8,6 +8,7 @@ TBD
   - Trello
   - LayoutIt
   - Dia
+  - Canva.com (for presentation, plans, memos)
   - Inform 7 <http://inform7.com/>
   - Some mindmapping tool : Vym, ?
   - SketchBoard.io <https://sketchboard.io/about>
